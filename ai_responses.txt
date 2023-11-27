@@ -1,3 +1,5 @@
-GPT4 response
+GPT4 response with no contexts and hints
 https://chat.openai.com/share/0c1ef2fb-31d8-4866-9d27-ebff3004c09a
 
+GPT 3.5 with reduced dataset with no contexts and hints (the full dataset is too long)
+https://chat.openai.com/share/0de6c78f-3faf-43fa-b27b-879b227293c1
