@@ -1,4 +1,4 @@
-/// prompt with no hints
+/// prompt with no hints for gpt 4 that can view a file
 Your task is to generate a set of classification rules based on the sample training data provided below.
 The training data is presented in a csv format, and you will view each row of the dataset as one entity and assign one entity to one category. 
 The last column indicates the actual label that the entity has, and the rest of the column represent the features.
