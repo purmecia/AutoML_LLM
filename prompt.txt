@@ -1,0 +1,13 @@
+/// prompt with no hints
+Your task is to generate a set of classification rules based on the sample training data provided below.
+The training data is presented in a csv format, and you will view each row of the dataset as one entity and assign one entity to one category. 
+The last column indicates the actual label that the entity has, and the rest of the column represent the features.
+Note that the features and the labels are not named, and you may interpret these in whatever context you like.
+
+Your chain of actions should be the following:
+1. take a close look at the features and the labels as indicated in the prompt above, and interpret what kind of data this may be.
+2. describe the context that the data may come from and tell me.
+3. generate a set of statistic and empirical rules that you believe can classify the data.
+4. generate python code that implements the rules that you generated above.
+
+The data is provided in the following:
