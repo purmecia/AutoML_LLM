@@ -1,0 +1,60 @@
+Num of param
+
+gpt 3.5: 175 billion
+Claude 2: 137 billion
+gpt 4: 1.8 trillion
+
+
+Without context
+
+gpt3.5:
+
+first try
+train: 38.49% 
+test: 42.43%
+
+provide feedback: which predictions are wrong/correct on the training set
+train: 38.49%
+test: 42.43%
+
+
+Claude 2:
+first try
+train: 51.88%
+test: 48.29%
+
+provide feedback
+train: 51.74%
+test: 48.78%
+
+
+With context
+
+gpt3.5:
+
+first try
+train: 70.57%
+test: 66.83%
+
+provide feedback
+train: 73.92%
+test: 67.80%
+
+Claude 2:
+
+first try:
+train: 39.89%
+test: 43.90%
+
+provide feedback
+train: 45.61%
+test: 40.98%
+
+gpt4
+first try
+train: 65%
+val: 54%
+
+feedback:
+train: 76.99%
+val: 71%
