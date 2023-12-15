@@ -1,5 +1,4 @@
 # AutoML_LLM
-Realizing AutoML with LLM
 
 We present a novel method for evaluating the reasoning capabilities of LLMs. Our method
 asks LLMs to generate a set of empirical rules for classification problems, which can have
